@@ -7,9 +7,17 @@ This repository is dedicated to a comprehensive analysis project titled "The Eff
 ## Key Features:
 
 Research Paper: Includes the main document detailing the study's findings, methodologies, and conclusions. The paper examines various aspects such as market growth, changes in consumer behavior, and the adaptation strategies of gaming companies.
+
+
 Data Collection: Features datasets gathered from various sources including gaming industry reports, market analysis data, and COVID-19 related statistics.
+
+
 Data Analysis Scripts: Contains scripts used for data analysis, primarily written in Python and R, which cover data cleaning, processing, statistical analysis, and predictive modeling.
+
+
 Interactive Visualizations: Offers a set of interactive charts and graphs, created using tools like Plotly and D3.js, to visually represent key insights and trends.
+
+
 Supplementary Resources: Provides additional materials such as interviews with industry experts, surveys, and case studies that enrich the research.
 
 ## Technologies and Tools Used:
